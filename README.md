@@ -8,4 +8,6 @@ I would like to learn Javascript and become a full-
 stack developer so that I can make money commensurate
 with my knowledge.
 
+this is an edit to the original.
+
 -Dubs

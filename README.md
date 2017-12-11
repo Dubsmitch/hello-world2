@@ -1,6 +1,9 @@
 # hello-world2
 prime
-
+<p> hello </p>
+p {
+  color: red;
+  }
 hello,
 
 I am a new programmer trying to create a webpage.
